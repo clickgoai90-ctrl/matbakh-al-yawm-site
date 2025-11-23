@@ -1,2 +1,9 @@
-# matbakh-al-yawm-site
-Static website for Matbakh Al Yawm — Jordanian homemade meals. Includes Home, About, Campaign, WhatsApp ordering, and auto-deployment to Hostinger via GitHub Actions.
+
+# Matbakh Al Yawm — Website Repo
+
+This repository includes the static website for Matbakh Al Yawm with:
+- Home Page
+- About Page
+- Campaign Page
+- WhatsApp Order Page
+- Auto Deployment pipeline (GitHub Actions)
